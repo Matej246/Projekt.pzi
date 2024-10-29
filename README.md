@@ -1,1 +1,1 @@
-# programiranje
+# projekt-pzi
